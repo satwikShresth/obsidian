@@ -1,0 +1,7 @@
+{
+  "dailyMemosHeader": "Memos",
+  "memosAPIVersion": "v0.24.0",
+  "memosAPIURL": "https://memos.satwik.dev",
+  "memosAPIToken": "eyJhbGciOiJIUzI1NiIsImtpZCI6InYxIiwidHlwIjoiSldUIn0.eyJuYW1lIjoic2F0d2lrIiwiaXNzIjoibWVtb3MiLCJzdWIiOiIzIiwiYXVkIjpbInVzZXIuYWNjZXNzLXRva2VuIl0sImlhdCI6MTc1NTg2MDk1Nn0.9fYM2st8CJkEGo1zCzbNPq-dYpl0GdlsYIwrl6egN24",
+  "attachmentFolder": "Attachments"
+}

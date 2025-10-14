@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6425a1b5fbbe198e",
+            "id": "9057c0811462a365",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/youtube/NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost"
             }
           }
         ]
@@ -70,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "notes/youtube/NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost"
             }
           },
           {
@@ -179,13 +192,35 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "1324d0578e728828",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "1e28d484204a8704",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "notes/youtube/NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +231,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "audio-recorder:Start/stop recording": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
       "random-note:Open random note": false,
-      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false
@@ -209,15 +242,51 @@
   },
   "active": "3ad49079b70ec671",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "2025-08-21.md",
-    "2025-08-22.md",
+    "Moving from Tanstack router to Tanstack start.md",
+    "Write ups",
+    "notes/dev/Dev Team Secrets with gpg, git and gopass.md",
+    "notes/dev/(Github) Fuego.md",
+    "notes/clippings/Apitally.md",
+    "memos/Making Apartment home.md",
+    "Excalidraw/Proposed-Arch-08-27-14.56.50.excalidraw.md",
+    "notes/Climbing/Sessions/2025-09-24.md",
+    "notes/Climbing/Sessions/template.md",
+    "Excalidraw/Drawing 2025-09-27 19.40.00.excalidraw.md",
+    "Untitled.base",
+    "notes/Climbing/Climbing Colors.md",
+    "Templates/climbing_template.md",
+    "notes/Climbing/assets",
+    "notes/Climbing/assets/IMG_9136.jpg",
+    "2025-09-27.md",
+    "Templates/Untitled.base",
+    "Templates",
+    "notes/Climbing/Sessions",
+    "notes/Climbing",
+    "notes/dev/Bun v1.2.21 Change log.md",
+    "Clippings/How I use Obsidian.md",
+    "notes/clippings/20250920000359 - (Github) Sharingexcess - sharingexcess -  monorepo for the sharing excess food rescue platform.md",
+    "Clippings",
+    "notes/clippings",
+    "notes/youtube/NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost.md",
+    "notes/dev",
+    "dev/notes/Dev Team Secrets with gpg, git and gopass 1.md",
+    "2025-08-25 VIDEO Prakhar Gupta - AIIMS Neurosurgeon on Vaping, Screen Time, Prn and Migraines.md",
+    "2025-08-25 VIDEO Prakhar Gupta - AIIMS Neurosurgeon on Vaping, Screen Time, Prn and Migraines 2.md",
+    "2025-08-25 VIDEO Prakhar Gupta - AIIMS Neurosurgeon on Vaping, Screen Time, Prn and Migraines 1.md",
+    "memos/💭 Memo - 2025-08-25 1956.md",
+    "memos/💭 Memo - 2025-08-25 1954 1.md",
+    "memos/💭 Memo - 2025-08-25 1954.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2025-08-22 06.44.21.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-21 22.49.33.excalidraw.md",
-    "Excalidraw",
-    "create a link.md",
-    "Welcome.md",
-    "Untitled.base"
+    "2025-08-25.md",
+    "202508251118.md",
+    "Untitled 12.canvas",
+    "Untitled 11.canvas",
+    "Untitled 10.canvas",
+    "Untitled 9.canvas",
+    "Untitled 8.canvas",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas"
   ]
 }

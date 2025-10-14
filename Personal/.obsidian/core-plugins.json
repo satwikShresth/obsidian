@@ -22,12 +22,12 @@
   "random-note": true,
   "outline": true,
   "word-count": true,
-  "slides": true,
-  "audio-recorder": true,
+  "slides": false,
+  "audio-recorder": false,
   "workspaces": true,
   "file-recovery": true,
   "publish": false,
-  "sync": true,
+  "sync": false,
   "bases": true,
   "webviewer": true
 }

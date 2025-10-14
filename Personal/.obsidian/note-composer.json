@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": true,
+  "template": "Templates/climbing_template",
+  "replacementText": "embed"
+}
