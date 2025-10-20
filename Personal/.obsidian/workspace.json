@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/youtube/NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost.md",
+                "file": "Write ups/Moving from Tanstack router to Tanstack start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost"
+              "title": "Moving from Tanstack router to Tanstack start"
             }
           }
         ]
@@ -240,9 +240,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3ad49079b70ec671",
+  "active": "4d3e29e8f930c3d4",
   "lastOpenFiles": [
-    "Moving from Tanstack router to Tanstack start.md",
+    "notes/youtube/NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost.md",
+    "Write ups/Moving from Tanstack router to Tanstack start.md",
     "Write ups",
     "notes/dev/Dev Team Secrets with gpg, git and gopass.md",
     "notes/dev/(Github) Fuego.md",
@@ -267,7 +268,6 @@
     "notes/clippings/20250920000359 - (Github) Sharingexcess - sharingexcess -  monorepo for the sharing excess food rescue platform.md",
     "Clippings",
     "notes/clippings",
-    "notes/youtube/NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost.md",
     "notes/dev",
     "dev/notes/Dev Team Secrets with gpg, git and gopass 1.md",
     "2025-08-25 VIDEO Prakhar Gupta - AIIMS Neurosurgeon on Vaping, Screen Time, Prn and Migraines.md",
