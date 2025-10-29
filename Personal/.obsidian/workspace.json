@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Moving from Tanstack router to Tanstack start"
             }
+          },
+          {
+            "id": "786ac19b4e4beb90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/PiNas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PiNas"
+            }
+          },
+          {
+            "id": "14b3f68a0b41707f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/PiNas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PiNas"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,7 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 878.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,14 +291,17 @@
   },
   "active": "4d3e29e8f930c3d4",
   "lastOpenFiles": [
-    "notes/youtube/NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost.md",
+    "notes/El paso labs questions.md",
     "Write ups/Moving from Tanstack router to Tanstack start.md",
+    "Excalidraw/Proposed-Arch-08-27-14.56.50.excalidraw.md",
+    "Ideas/PiNas.md",
+    "Ideas",
+    "notes/youtube/NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost.md",
     "Write ups",
     "notes/dev/Dev Team Secrets with gpg, git and gopass.md",
     "notes/dev/(Github) Fuego.md",
     "notes/clippings/Apitally.md",
     "memos/Making Apartment home.md",
-    "Excalidraw/Proposed-Arch-08-27-14.56.50.excalidraw.md",
     "notes/Climbing/Sessions/2025-09-24.md",
     "notes/Climbing/Sessions/template.md",
     "Excalidraw/Drawing 2025-09-27 19.40.00.excalidraw.md",
@@ -268,7 +320,6 @@
     "notes/clippings/20250920000359 - (Github) Sharingexcess - sharingexcess -  monorepo for the sharing excess food rescue platform.md",
     "Clippings",
     "notes/clippings",
-    "notes/dev",
     "dev/notes/Dev Team Secrets with gpg, git and gopass 1.md",
     "2025-08-25 VIDEO Prakhar Gupta - AIIMS Neurosurgeon on Vaping, Screen Time, Prn and Migraines.md",
     "2025-08-25 VIDEO Prakhar Gupta - AIIMS Neurosurgeon on Vaping, Screen Time, Prn and Migraines 2.md",
@@ -278,7 +329,6 @@
     "memos/💭 Memo - 2025-08-25 1954.md",
     "Untitled.canvas",
     "2025-08-25.md",
-    "202508251118.md",
     "Untitled 12.canvas",
     "Untitled 11.canvas",
     "Untitled 10.canvas",
