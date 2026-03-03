@@ -13,6 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Clippings/fofrexpression-editor – Replicate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "fofrexpression-editor – Replicate"
+            }
+          },
+          {
+            "id": "f22b91ae1020598f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/How I use Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How I use Obsidian"
+            }
+          },
+          {
+            "id": "786ac19b4e4beb90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Write ups/Moving from Tanstack router to Tanstack start.md",
                 "mode": "source",
                 "source": false,
@@ -32,51 +80,39 @@
             }
           },
           {
-            "id": "786ac19b4e4beb90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas/PiNas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PiNas"
-            }
-          },
-          {
             "id": "14b3f68a0b41707f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Ideas/PiNas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Proposed-Arch-08-27-14.56.50.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "PiNas"
+              "icon": "excalidraw-icon",
+              "title": "Proposed-Arch-08-27-14.56.50.excalidraw"
+            }
+          },
+          {
+            "id": "3cdaa0fed9dc6282",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-12 14.11.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-12 14.11.48.excalidraw"
+            }
+          },
+          {
+            "id": "5cc71b07cd28e0d0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ],
@@ -137,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d36e448a4cd40bc2",
@@ -269,7 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 878.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,21 +325,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4d3e29e8f930c3d4",
+  "active": "786ac19b4e4beb90",
   "lastOpenFiles": [
-    "notes/El paso labs questions.md",
-    "Write ups/Moving from Tanstack router to Tanstack start.md",
-    "Excalidraw/Proposed-Arch-08-27-14.56.50.excalidraw.md",
-    "Ideas/PiNas.md",
-    "Ideas",
     "notes/youtube/NRI Aerospace Scientist teaches his village in Punjab to use garbage as compost.md",
-    "Write ups",
+    "notes/El paso labs questions.md",
+    "Ideas/PiNas.md",
     "notes/dev/Dev Team Secrets with gpg, git and gopass.md",
+    "notes/dev/Bun v1.2.21 Change log.md",
     "notes/dev/(Github) Fuego.md",
     "notes/clippings/Apitally.md",
-    "memos/Making Apartment home.md",
-    "notes/Climbing/Sessions/2025-09-24.md",
     "notes/Climbing/Sessions/template.md",
+    "notes/Climbing/Sessions/2025-09-24.md",
+    "memos/Making Apartment home.md",
+    "Clippings/How I use Obsidian.md",
+    "Clippings/fofrexpression-editor – Replicate.md",
+    "Write ups/Moving from Tanstack router to Tanstack start.md",
+    "Excalidraw/Drawing 2025-11-12 14.11.48.excalidraw.md",
+    "Excalidraw/Proposed-Arch-08-27-14.56.50.excalidraw.md",
+    "Ideas",
+    "Write ups",
     "Excalidraw/Drawing 2025-09-27 19.40.00.excalidraw.md",
     "Untitled.base",
     "notes/Climbing/Climbing Colors.md",
@@ -315,8 +355,6 @@
     "Templates",
     "notes/Climbing/Sessions",
     "notes/Climbing",
-    "notes/dev/Bun v1.2.21 Change log.md",
-    "Clippings/How I use Obsidian.md",
     "notes/clippings/20250920000359 - (Github) Sharingexcess - sharingexcess -  monorepo for the sharing excess food rescue platform.md",
     "Clippings",
     "notes/clippings",
@@ -326,9 +364,7 @@
     "2025-08-25 VIDEO Prakhar Gupta - AIIMS Neurosurgeon on Vaping, Screen Time, Prn and Migraines 1.md",
     "memos/💭 Memo - 2025-08-25 1956.md",
     "memos/💭 Memo - 2025-08-25 1954 1.md",
-    "memos/💭 Memo - 2025-08-25 1954.md",
     "Untitled.canvas",
-    "2025-08-25.md",
     "Untitled 12.canvas",
     "Untitled 11.canvas",
     "Untitled 10.canvas",
